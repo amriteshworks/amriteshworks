@@ -11,7 +11,7 @@ I specialize in the intersection of **API security testing** and **regulatory co
 
 My domain covers three tightly connected areas:
 
-- **API & Web Application Security** — vulnerability assessment, authentication flaws, authorization testing, injection attacks
+- **API & Web Application Security** — vulnerability assessment, authentication flaws, authorization testing
 - **AI / LLM Security** — threat modeling for LLM-powered systems, prompt injection, OWASP LLM Top 10, EU AI Act compliance
 - **Data Privacy & GRC** — GDPR technical implementation, HIPAA Technical Safeguards, NIST AI RMF, risk assessment, control mapping
 
@@ -67,13 +67,5 @@ All work is documented in professional format — vulnerability findings include
 | [HIPAA Technical Safeguards Analysis for APIs](https://github.com/[yourusername]/api-security-portfolio/tree/main/04-hipaa-api-analysis) | HIPAA · Healthcare Security | 🔄 In Progress |
 
 
-
-## Currently Building
-
-- Completing hands-on API security assessment of crAPI vulnerable application
-- PortSwigger Web Security Academy — Injection and Business Logic paths
-- Expanding AI security threat modeling methodology for regulated industries
-
----
 
 *All findings, analyses, and technical writing in this profile are my own original work, produced for educational and professional development purposes.*
