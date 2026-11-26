@@ -51,7 +51,7 @@ Industries I focus on: **Financial Services** and **Healthcare** — the two sec
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-API%20Security%20Path-FF6633?style=flat-square)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Authentication%20Path-FF6633?style=flat-square)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Access%20Control%20Path-FF6633?style=flat-square)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square)
+
 
 ---
 
