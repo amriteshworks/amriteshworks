@@ -68,30 +68,6 @@ All work is documented in professional format — vulnerability findings include
 
 
 
-## Published Writing
-
-Security research and technical analysis published on [dev.to](https://dev.to/[yourusername]):
-
-| Article | Topic | Link |
-|---|---|---|
-| JWT Attacks Explained | API Auth Security | *Coming soon* |
-| BOLA vs IDOR — What's Different and Why | API Authorization | *Coming soon* |
-| GDPR Article 25 for API Developers | Privacy Engineering | *Coming soon* |
-| EU AI Act for Healthcare AI | AI Governance | *Coming soon* |
-| NIST AI RMF in Practice | AI Risk Management | *Coming soon* |
-
-
-
----
-
-## Responsible Disclosure
-
-I conduct all security research within authorized environments (intentionally vulnerable applications, lab setups) or under formal responsible disclosure processes.
-
-If you are a maintainer and have received a security report from me, see [SECURITY.md](https://github.com/[yourusername]/api-security-portfolio/blob/main/SECURITY.md) for my disclosure process and timelines.
-
----
-
 ## Currently Building
 
 - Completing hands-on API security assessment of crAPI vulnerable application
